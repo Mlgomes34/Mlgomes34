@@ -16,12 +16,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Me conheça </h3>
 
 ###
 
 <p align="left">
-### Olá, eu sou a Mariana 👋<br>- 🔭 Estou em transição de carreira para Big Data<br>- 🌱 Modelagem de banco de dados e ferramentas de dashboard ...<br>- 🤔 Começando a criar o portifólio ...<br>- 😄 Pronouns: ela/dela...</p>
+### Olá, eu sou a Mariana 👋<br>- 🔭 Cursando o Quarto Semestre em Big Data e Inteligêncua Analítica <br>- 🌱 Modelagem de banco de dados e ferramentas de dashboard ...<br>- 🤔 Começando a criar o portifólio ...<br>- 😄 Pronouns: ela/dela...
+<br>
+  <br>
+Em transição de carreira, estudo Big Data e Inteligência Analítica na Universidade Anhembi Morumbi, onde desenvolvi habilidades em análise estatística e programação. Com certificados em SQL e Análise de Dados, almejo integrar meu conhecimento técnico a projetos transformadores que alavancam insights estratégicos e inovadores. Procuro por estagio ou vaga como Júnior para adiquirir experiência de mercado.
+
+</p>
 
 ###
 
