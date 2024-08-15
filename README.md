@@ -21,7 +21,7 @@
 ###
 
 <p align="left">
-### Olá, eu sou a Mariana 👋<br>- 🔭 Cursando o Quarto Semestre em Big Data e Inteligêncua Analítica <br>- 🌱 Modelagem de banco de dados e ferramentas de dashboard ...<br>- 🤔 Começando a criar o portifólio ...<br>- 😄 Pronouns: ela/dela...
+### Olá, eu sou a Mariana 👋<br>- 🔭 Cursando o Quarto Semestre em Big Data e Inteligência Analítica <br>- 🌱 Modelagem de banco de dados e ferramentas de dashboard ...<br>- 🤔 Começando a criar o portifólio ...<br>- 😄 Pronouns: ela/dela...
 <br>
   <br>
 Em transição de carreira, estudo Big Data e Inteligência Analítica na Universidade Anhembi Morumbi, onde desenvolvi habilidades em análise estatística e programação. Com certificados em SQL e Análise de Dados, almejo integrar meu conhecimento técnico a projetos transformadores que alavancam insights estratégicos e inovadores. Procuro por estagio ou vaga como Júnior para adiquirir experiência de mercado.
@@ -45,7 +45,9 @@ Em transição de carreira, estudo Big Data e Inteligência Analítica na Univer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="excel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
 ###
