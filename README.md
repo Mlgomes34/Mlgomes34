@@ -21,7 +21,7 @@
 ###
 
 <p align="left">
-### Olá, eu sou a Mariana 👋<br>- 🔭 Estou em transição de carreira para Big Data<br>- 🌱 Modelagem de banco de dados e ferramentas de dashboard ...<br>- 🤔 De como montar portifólios ...<br>- 😄 Pronouns: ela/dela...</p>
+### Olá, eu sou a Mariana 👋<br>- 🔭 Estou em transição de carreira para Big Data<br>- 🌱 Modelagem de banco de dados e ferramentas de dashboard ...<br>- 🤔 Começando a criar o portifólio ...<br>- 😄 Pronouns: ela/dela...</p>
 
 ###
 
